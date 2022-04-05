@@ -14,7 +14,7 @@ let users:any[] = usersJSON ? JSON.parse(usersJSON):[{
   title:'Mr',
   firstName:'Vengi',
   lastName:'reddy',
-  email:'2087082@cognizant.com',
+  email:'vengalareddy1998@gmail.com',
   role:Role.Admin,
   password:'admin123'
 }];
